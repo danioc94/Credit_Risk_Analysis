@@ -53,3 +53,5 @@ We obtain the following accuracy imbalanced classification report for each one o
 
 
 ## Summary
+
+After running the above classifiers we can determine that the model with best performance is the Easy Ensemble AdaBoost. After scaling our training and testing data we feed it to the model and obtain a rounded 0.93 accuracy over the predicted data. We can see the model also obtained more than 90% of recall for high risk and low risk loans, meaning the chances of detecting a high risk loan application is higher than the rest of the classifiers. The sampling classifiers in general did not perform well since we have very low accuracy and not good sensitivity for both low and high risk loans. With all this in mind it is recommended to use the Easy Ensemble AdaBoost for credit loan application analysis.
