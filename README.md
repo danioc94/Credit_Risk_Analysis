@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview of the Analysis
-This repository includes code to  different supervised machine learning algorithms perform over a credit risk dataset using Python, Pandas and Sklearn library. We use supervised learning techniques such as Over and Under Sampling, Balanced Random Forest, and Easy Ensemble AdaBoost classifiers and determine which one has the best classification results.
+This repository includes code to  different supervised machine learning algorithms perform over a credit risk dataset using Python, Pandas and Scikit-learn library. We use supervised learning techniques such as Over and Under Sampling, Balanced Random Forest, and Easy Ensemble AdaBoost classifiers and determine which one has the best classification results.
 
 ## Results
 
